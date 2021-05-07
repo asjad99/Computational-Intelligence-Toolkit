@@ -40,3 +40,15 @@ Actions include count,collect, save etc.
 
 ----------------------
 ### Concurrent Programming
+
+
+
+
+-----------------------------
+
+### RESOURCES: 
+
+[Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+SCIP
+[Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
+[The paradigms of programming](https://blog.acolyer.org/2018/01/29/the-paradigms-of-programming/)
