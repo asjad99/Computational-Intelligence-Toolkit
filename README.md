@@ -69,3 +69,8 @@ the calculations).
 - [SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 - [Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 - [The paradigms of programming](https://blog.acolyer.org/2018/01/29/the-paradigms-of-programming/)
+
+
+###  People: 
+
+- https://homes.cs.washington.edu/~mernst/research/
