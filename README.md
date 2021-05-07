@@ -1,3 +1,4 @@
+<img width="880" alt="Screen Shot 2021-05-07 at 10 38 22 pm" src="https://user-images.githubusercontent.com/3470924/117450732-f8d22e80-af84-11eb-9775-ac5017c0b4e0.png">
 
 
 
@@ -8,10 +9,21 @@
 ---------------
 ### Prolog
 
+The first paradigm is a logic programming engine based on unification and
+depth-first search. The second paradigm is imperative: the assert and retract operations which allow a program to add and remove program clauses. Prolog dates
+from 1972, which makes it an old language. Recent developments in modeling languages based on advanced search algorithms advance both the logic programming
+and imperative programming sides. Modern Prolog implementations have added
+some of these advances, e.g., support for constraint programming and a module
+system
 
+Code: 
+blog post: 
 ---------------
 
 ### The functional paradigm (using LISP)
+
+
+
 
 lisp-practice-tasks
 
@@ -41,7 +53,12 @@ Actions include count,collect, save etc.
 ----------------------
 ### Concurrent Programming
 
-
+Concurrency should not be confused with parallelism. Concurrency is a language
+concept and parallelism is a hardware concept. Two parts are parallel if they execute
+simultaneously on multiple processors. Concurrency and parallelism are orthogonal: it is
+possible to run concurrent programs on a single processor (using preemptive scheduling
+and time slices) and to run sequential programs on multiple processors (by parallelizing
+the calculations).
 
 
 -----------------------------
