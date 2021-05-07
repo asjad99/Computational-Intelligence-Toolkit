@@ -47,7 +47,7 @@ Actions include count,collect, save etc.
 -----------------------------
 
 ### RESOURCES: 
-- [Programming Paradigms for Dummies: What Every Programmer Should Know]
+- [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 - [SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 - [Six programming paradigms that will change how you think about coding](https://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
