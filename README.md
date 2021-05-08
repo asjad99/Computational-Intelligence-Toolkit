@@ -16,14 +16,11 @@ and imperative programming sides. Modern Prolog implementations have added
 some of these advances, e.g., support for constraint programming and a module
 system
 
-Code: 
+Code:  https://github.com/asjad99/Prolog 
 blog post: 
 ---------------
 
 ### The functional paradigm (using LISP)
-
-
-
 
 lisp-practice-tasks
 
