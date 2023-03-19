@@ -2,12 +2,15 @@
 
 
 
----------------
-### Object-Oriented programming in Java
+### Projects: 
 
+- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
+- [Path-Finder](https://github.com/asjad99/Prolog) - Path finder prolog 
+- [LISP_Basics](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) - Lisp practice programs for learning basics 
+- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
+- [Robo-Soccor](https://github.com/asjad99/Robot-Soccer-) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
+- [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
 
----------------
-### Prolog
 
 The first paradigm is a logic programming engine based on unification and
 depth-first search. The second paradigm is imperative: the assert and retract operations which allow a program to add and remove program clauses. Prolog dates
@@ -16,8 +19,6 @@ and imperative programming sides. Modern Prolog implementations have added
 some of these advances, e.g., support for constraint programming and a module
 system
 
-Code:  https://github.com/asjad99/Prolog 
-blog post: 
 ---------------
 
 ### The functional paradigm (using LISP)
@@ -28,7 +29,6 @@ lisp-practice-tasks
 2. Write a function (OccurencesInTree <n> <tree>) which counts the number of occurrences of the value <n> in a numeric tree. Use a breadth first approach when traversing the tree.
 Example: (OccurencesInTree 3 ‘(((1)(2))(5)(3)((8)3)) returns 2.
 3. Define a function (SumIfNot <list1> <list2>) which returns the sum of all elements in list2 that do not appear in list1. Both lists may be nested lists. Example: (SumIfNot ‘(1 8 (2)) ‘(1 (3 (5)) 7 9)) returns 24.
-
 
 
 For learning more see: http://www.paulgraham.com/rootsoflisp.html
