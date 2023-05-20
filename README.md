@@ -1,16 +1,59 @@
-<img width="880" alt="Screen Shot 2021-05-07 at 10 38 22 pm" src="https://user-images.githubusercontent.com/3470924/117450732-f8d22e80-af84-11eb-9775-ac5017c0b4e0.png">
+### Toolkit and Areas: 
 
+- Artificial Intelligence: Principles and Techniques
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- Machine Learning with Graphs
+- Probabilistic Graphical Models
+- Decision Making Under Uncertainty
+- Advanced Topics in Sequential Decision Making	
+- [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
+- [AGI and Accelerating Scientific Discovery](https://github.com/asjad99/AGI)
+- [Programming Paradigms for AI](https://github.com/asjad99/programming-paradigms-)
+- 	Natural Language Processing with Deep Learning(fast.ai)
+- Deep Multi-Task and Meta Learning
+- Probabilistic Programming and Models of Cognition
+- AI and Healthcare
+
+-----
+
+### Artificial Intelligence: Principles and Techniques
+
+We cover, 30,000 view of the whole field. Dynamic Programming, NNs. etc. 
+
+AI can be viewed as a spectrum, covering low-level intelligence(e.g instantenous image classification) And high level intelligence (human thinking hard about the next chess move. It also covers specialized algorithms related to search problems, markov decision processes, adversarial games, constraint satisfaction problems, bayseian, high-level logic (all the rage in the 70s with SAT Solver).  
 
 
 ### Projects: 
 
-- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
+- [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search and SAT based decision making framework to acheive strategic resilience
 - [Path-Finder](https://github.com/asjad99/Prolog) - Path finder prolog 
 - [LISP_Basics](https://github.com/asjad99/programming-paradigms-/blob/main/practice_programs.lisp) - Lisp practice programs for learning basics 
 - [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
 - [Robo-Soccor](https://github.com/asjad99/Robot-Soccer-) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
-- [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
 
+
+### Machine Learning 
+
+see Machine learning repo. for details
+
+### Machine Learning and Graphs
+
+
+
+
+
+Add More Intros here: 
+
+https://ai.stanford.edu/stanford-ai-courses/
+
+
+
+
+
+---------------
+
+
+#### Programming Paradigms for AI
 
 The first paradigm is a logic programming engine based on unification and
 depth-first search. The second paradigm is imperative: the assert and retract operations which allow a program to add and remove program clauses. Prolog dates
@@ -19,7 +62,6 @@ and imperative programming sides. Modern Prolog implementations have added
 some of these advances, e.g., support for constraint programming and a module
 system
 
----------------
 
 ### The functional paradigm (using LISP)
 
@@ -71,3 +113,7 @@ the calculations).
 ###  People: 
 
 - https://homes.cs.washington.edu/~mernst/research/
+
+ 
+ <img width="880" alt="Screen Shot 2021-05-07 at 10 38 22 pm" src="https://user-images.githubusercontent.com/3470924/117450732-f8d22e80-af84-11eb-9775-ac5017c0b4e0.png">
+
